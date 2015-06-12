@@ -1,15 +1,15 @@
+##################################
+##### Todo lo que ignora GIT  ####
+##################################
 
-#Todo lo que ignora GIT
-
+#ficheros genereados de forma automatica
 /build/
 
 
+#carpeta media con videos
+/WebContent/media/
 
-#Configuracion eclipse
-/.settings
+#Configuracion Eclipse
+/.settings/
 /.classpath
 /.project
-
-#Carpeta media
-
-/WenContent/media/
