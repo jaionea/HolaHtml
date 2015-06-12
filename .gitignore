@@ -1,1 +1,15 @@
+
+#Todo lo que ignora GIT
+
 /build/
+
+
+
+#Configuracion eclipse
+/.settings
+/.classpath
+/.project
+
+#Carpeta media
+
+/WenContent/media/
